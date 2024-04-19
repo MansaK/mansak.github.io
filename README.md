@@ -1,9 +1,9 @@
 # Business Analyst
 
-### Education
+# Education
 B.E. Computer Engineering
 
-### Work Experience
+# Work Experience
 Business Analyst @ DataCatalyst LLC<br>
 Technical Consultant @ Knorr Bremse TCI<br>
 Technical Consultant @ Tieto Software Technologies<br>
