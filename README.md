@@ -9,4 +9,4 @@ Technical Consultant @ Knorr Bremse TCI <br>
 Technical Consultant @ Tieto Software Technologies <br>
 Systems Engineer @ KPIT Cummins Infosystems Ltd <br>
 Requirements Engineer @ KPIT Cummins Infosystems Ltd <br>
-Software Engineer @ KPIT Cummins Infosystems Ltd 
+Software Engineer @ KPIT Cummins Infosystems Ltd
